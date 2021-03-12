@@ -1,0 +1,154 @@
+<html> <head><link rel="shortcut icon" href="/favicon.ico"> <style type="text/css">{  }
+body         { font-style: normal; font-variant: normal; font-weight: normal; font-size: 10pt; 
+               font-family: Verdana, Arial}
+td, p, li    { font-style: normal; font-variant: normal; font-weight: normal; font-size: 10pt; color: #CC9618; 
+               font-family: Verdana, Arial; line-height: 150%}
+h1           { font-size: 13pt; font-family: Verdana; font-variant: normal; 
+               line-height: 100%; color: #864A0E; font-style: normal; 
+               font-weight: normal; margin-top: 0; margin-bottom: 0 }
+h2           { font-size: 14pt; font-family: Arial; font-style: normal; font-variant: normal; 
+               font-weight: bold; line-height: 100%; color: #CC3300; 
+               margin-top: 20 }
+h3           { font-size: 14pt; font-family: Arial; font-variant: normal; line-height: 100%; 
+               color: #000000; font-weight: bold }
+h4           { font-size: 12pt; font-family: Arial; font-style: normal; font-variant: normal; 
+               font-weight: bold; line-height: 100%; color: #000000 }
+h5           { font-size: 10pt; font-family: Verdana; font-style: normal; font-variant: 
+               normal; font-weight: bold; color: #FFFFFF; background-color: 
+               #000000; margin-top: 0; margin-bottom: 0; padding-left: 2; 
+               padding-bottom: 2 }
+h6           { font-size: 10pt; color: #CC3300; font-weight: bold; margin-top: 1px; 
+               margin-bottom: 1px }
+               
+.link		 { font-family:verdana; font-size:10pt; color:#CB010C; background-image:url('images/link-bg01.jpg'); background-repeat:no-repeat; background-position:left top; padding-left:20px; padding-top:9px; }
+.menu		 { padding-left:30px; padding-top:10px}
+.menu1		 { padding-left:5px; background-image:url('images/links-requisite.jpg'); background-repeat:no-repeat;}
+.menu2		 { padding-left:5px; background-image:url('images/links-trademark.jpg'); background-repeat:no-repeat;}
+
+a:link       { color: #745100; font-weight: normal; text-decoration:none; font-family: Verdana; font-size: 10pt}
+a:visited    { color: #745100; font-weight: normal; text-decoration:none; font-family: Verdana; font-size: 10pt}
+A:active     { color: #E80000; font-weight: normal; text-decoration:none; font-family: Verdana; font-size: 10pt}
+a:hover      { color: #FF0000; font-weight: normal; text-decoration:none; font-family: Verdana; font-size: 10pt}
+
+
+
+a.footer:link       { color: #CC9618; font-weight: bold; text-decoration:none; font-family: Verdana; font-size: 8pt}
+a.footer:visited    { color: #CC9618; font-weight: bold; text-decoration:none; font-family: Verdana; font-size: 8pt}
+A.footer:active     { color: #CC9618; font-weight: bold; text-decoration:none; font-family: Verdana; font-size: 8pt}
+a.footer:hover      { color: #C10707; font-weight: bold; text-decoration:none; font-family: Verdana; font-size: 8pt}
+
+
+
+
+#layer1 {
+
+	position:absolute;
+	left:250px;
+	top:270px;
+	visibility:hidden;
+
+}
+
+#layer2 {
+
+	position:absolute;
+	left:250px;
+	top:390px;
+	visibility:hidden;
+
+}
+
+#layer3 {
+
+	position:absolute;
+	left:590px;
+	top:390px;
+	visibility:hidden;
+
+}
+
+#layer4 {
+
+	position:absolute;
+	left:590px;
+	top:420px;
+	visibility:hidden;
+
+}
+
+#layer5 {
+
+	position:absolute;
+	left:250px;
+	top:400px;
+	visibility:hidden;
+
+}
+
+ul           { margin-bottom: 10 }
+
+</style>
+<title></title>
+<meta name="Keywords" content="heading1,links links">
+</head>
+
+<body bgcolor="#FFFFFF" topmargin="0">
+
+<p>our motto: <a href="http://www.myanmars.net">myanmar</a>:
+<font color="#CC3300"><b>the choice to </b></font>
+<a href="http://www.myanmars.net">travel asia</a></p>
+
+<p><a href="http://myanmartravelinformation.com">Myanmar Travel Information</a> 2004</p>
+
+<hr>
+
+<h1>heading1</h1>
+
+<h2>heading2</h2>
+
+<h3>heading3</h3>
+
+<h4>heading4</h4>
+
+<h5>heading5</h5>
+
+<h6>heading6</h6>
+
+<p>normal normal normal normal normal normal normal normal normal normal normal
+normal normal normal normal normal normal normal normal normal normal normal
+normal normal normal normal normal normal normal normal normal normal normal
+normal normal normal normal normal normal normal normal&nbsp;</p>
+
+<p>normal normal normal normal normal normal normal normal normal normal normal
+normal normal normal normal normal normal normal normal normal normal normal
+normal normal normal normal normal normal normal normal normal normal normal
+normal normal normal normal normal normal normal normal&nbsp;</p>
+
+<ul>
+  <li style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 10pt; font-family: Verdana, Arial">bullet</li>
+  <li style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 10pt; font-family: Verdana, Arial">bullet</li>
+  <li style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 10pt; font-family: Verdana, Arial">bullet</li>
+  <li style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 10pt; font-family: Verdana, Arial">bullet</li>
+  <li style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 10pt; font-family: Verdana, Arial">bullet</li>
+</ul>
+
+<ol>
+	<li>numbered link</li>
+	<li>numbered link</li>
+	<li>numbered link</li>
+	<li>numbered link</li>
+</ol>
+<hr>
+<p align='right'><a href="sites-touroperators.shtml">Travel agents</a> | <a href="sites-tourismrelated.shtml">Tourism-Related</a> 
+| <a href="sites-trading.shtml">Exporters</a> | <a href="sites-others.shtml">Others1</a> 
+| <a href="sites-misc.shtml">Others2</a></p>
+
+
+
+
+
+
+<p><font color="#FFFFFF"><a style="text-decoration: none; color: #FFFFFF" href="sites-touroperators.shtml">_</a></font></p>
+
+</body>
+</html>
